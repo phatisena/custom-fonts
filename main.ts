@@ -1,5 +1,5 @@
 //% color="#344feb" icon="\uf249"
-namespace Flfont {
+namespace flfont {
 
     let ligs: string[] = []
     let ligages: Image[] = []
